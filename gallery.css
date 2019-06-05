@@ -1,0 +1,10 @@
+.thumbnail {
+    border: none;
+    border-radius: 0;
+}
+
+.thumbnail img {
+	height:150px;
+	width:150px;
+    margin-bottom: 10px;
+}
